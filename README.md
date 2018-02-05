@@ -1,4 +1,4 @@
-# easyNodePatchServer
+# Easy Node Patch Server
 Used to create an external patch server to communicate with Jamf Pro
 
 This relies on using a Node JS server to run and report our JSON patch files to the Jamf Pro Server.
