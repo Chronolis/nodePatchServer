@@ -5,7 +5,8 @@ This relies on using a Node JS server to run and report our JSON patch files to 
 
 ## Getting Started
 
-Here is what we will need to get us started with this project. First we need to install a few Prerequisites
+Required - Ubuntu 16.04
+Here is what we will need to get us started with this project. First we need to install a few Prerequisites.
 
 ### Prerequisites
 
